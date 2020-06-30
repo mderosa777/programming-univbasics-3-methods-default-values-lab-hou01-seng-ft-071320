@@ -2,7 +2,7 @@
 
 def meal_choice(veg1,veg2,protien = "tofu")
  puts "A plate of #{protien} with #{veg1} and #{veg2}." 
- puts "what a nutrious meal"
+ puts "What a nutrious meal!"
 end
 
  meal_choice('carrots','string beans','apples')
